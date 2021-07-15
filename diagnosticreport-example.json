@@ -1,0 +1,27 @@
+{
+  "resourceType": "Bundle",
+  "id": "101",
+  "type": "collection",
+  "entry": [
+    {
+      "fullUrl": "https://example.com/base/DiagnosticReport/101",
+      "resource": {
+        "resourceType": "DiagnosticReport",
+        "id": "101",
+        "status": "final",
+        "code": {
+          "text": "Complete Blood Count"
+        },
+        "presentedForm": [
+          {
+            "contentType": "application/pdf",
+            "language": "en",
+            "url": "https://www.polyu.edu.hk/ar/web/filemanager/common/polyu-students/AC.pdf",
+            "title": "HTML Report",
+            "creation": "2015-02-07T13:28:17-05:00"
+          }
+        ]
+      }
+    }
+  ]
+}
